@@ -1,0 +1,78 @@
+body{
+    background-color: #282C35 !important;
+}
+#mainbar{
+    background-color: #282C35 !important;
+}
+#navlogo{
+    color: white;
+    font-weight: bold;
+    font-family: sans-serif;
+    line-height: 24px;
+    font-size: 20px;
+}
+#links{
+    color: white;
+    font-weight: bold;
+    font-family: sans-serif;
+    line-height: 24px;
+    font-size: 20px;
+}
+#karambolimg{
+    margin-top: 45px;
+    height: 120px;
+    width: 120px;
+}
+#blogtitle{
+    margin-top: 25px;
+    font-weight: bold;
+    color: white;
+    font-size: 30px;
+    line-height: 27px;
+    text-align: center;
+}
+#blogdesc{
+    font-weight: bold;
+    margin-top: 10px;
+    color: white;
+    font-size: 13px;
+    text-align: center;
+}
+#blogdesc1{
+    font-weight: bold;
+    margin-top: 20px;
+    color: #C2C3C5;
+    font-size: 17px;
+    text-align: center;
+}
+#blogtitle1{
+    margin-top: 25px;
+    font-weight: bold;
+    color: white;
+    font-size: 25px;
+    text-align: center;
+}
+
+#blogdesc2{
+    font-weight: bold;
+    margin-top: 20px;
+    color: #C2C3C5;
+    font-size: 17px;
+    text-align: center;
+}
+#blogtitle2{
+    margin-top: 40px;
+    font-weight: bold;
+    color: white;
+    font-size: 25px;
+    text-align: center;
+}
+
+#blogtitle3{
+    margin-top: 40px;
+    font-weight: bold;
+    color: white;
+    font-size: 25px;
+    text-align: center;
+}
+

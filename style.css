@@ -1,0 +1,55 @@
+body{
+    background-color: #282C35 !important;
+}
+#mainbar{
+    background-color: #282C35 !important;
+}
+#navlogo{
+    color: white;
+    font-weight: bold;
+    font-family: sans-serif;
+    line-height: 24px;
+    font-size: 20px;
+}
+#links{
+    color: white;
+    font-weight: bold;
+    font-family: sans-serif;
+    line-height: 24px;
+    font-size: 20px;
+}
+#karambolimg{
+    margin-top: 45px;
+    height: 120px;
+    width: 120px;
+}
+#karambolack{
+    margin-top: 25px;
+    color: white;
+    font-size: 17px;
+    line-height: 27px;
+    text-align: center;
+}
+#mainkart {
+    width: 500px;
+    margin-top: 20px;
+    height: 45px;
+    border-radius: 10px;
+    background-color: #3d4149;
+}
+
+#cardtitle {
+    font-family: "Rubik", sans-serif;
+    color: white;
+    font-weight: bold;
+    font-size: 18px;
+    text-align: center;
+    line-height: 7px;
+}
+#bloglink{
+    text-decoration: none;
+    transition: transform 0.2s ease-in-out;
+}
+#bloglink:hover{
+    transform: scale(1.1);
+}
